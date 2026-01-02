@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Data (ignore all data)
+data/
+
+# Models & artifacts
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
